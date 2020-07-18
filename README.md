@@ -15,5 +15,5 @@ Cast all the component into a resin block
 
 ## Known issue
 Occasionally the minute digits can flicker back to "01". 
-As shown in the video demoattachement
+As shown in the video attachement
 https://github.com/men9xuan/NewClock/blob/master/issue.mp4
