@@ -14,5 +14,6 @@ Cast all the component into a resin block
 ![Image of Casting](https://github.com/men9xuan/NewClock/blob/master/cast_in_resin.jpg)
 
 ## Known issue
-Occasionally the clock digits can flicker back to "01". 
-https://github.com/men9xuan/NewClock/blob/master/issue.mp4?raw=true
+Occasionally the minute digits can flicker back to "01". 
+As shown in the video demoattachement
+https://github.com/men9xuan/NewClock/blob/master/issue.mp4
