@@ -9,8 +9,7 @@ https://github.com/iarduino/iarduino_RTC
 
 ![Image of OLED Screen](https://github.com/men9xuan/NewClock/blob/master/screen.png)
 
-## Optional step
-Cast all the component into a resin block 
+## Cast in resin (Optional)
 ![Image of Casting](https://github.com/men9xuan/NewClock/blob/master/cast_in_resin.jpg)
 
 ## Known issue
