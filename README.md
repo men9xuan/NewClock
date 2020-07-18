@@ -14,4 +14,4 @@ Cast all the component into a resin block
 
 ## Known issue
 Occasionally the clock digits can flicker back to "01". 
-https://github.com/men9xuan/NewClock/blob/master/1_5030987122731909204.mp4?raw=true
+https://github.com/men9xuan/NewClock/blob/master/issue.mp4?raw=true
